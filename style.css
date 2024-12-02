@@ -2890,9 +2890,9 @@ footer#contact-us {
         display: absolute;
         opacity: 1;
         visibility: visible;
-        width: 7%;
+        width: 25%;
         height: auto;
-        left: 18%;
+        left: 60%;
         top: auto;
     }
     #navbar.active {
@@ -2941,9 +2941,9 @@ footer#contact-us {
         display: absolute;
         opacity: 1;
         visibility: visible;
-        width: 10%;
+        width: 36%;
         height: auto;
-        left: 15%;
+        left: 45%;
         top: 3%;
     }
 }
