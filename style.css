@@ -3307,7 +3307,7 @@ footer#contact-us {
 @media (max-width: 768px) {
     #Services {
         height: 550px;
-        padding: 15px ;
+        /* padding: 15px ; */
         grid-template-columns: repeat(2, 1fr);
     }
     .Services-text-1{
@@ -3446,7 +3446,7 @@ footer#contact-us {
     .Service-text-1{
         font-size: 13px;
         top:18%;
-        width:50%;
+        /*width:50%;*/
         left:17%;
     }
     .Service-text-1-1{
@@ -3458,7 +3458,7 @@ footer#contact-us {
     .Service-text-2{
         font-size: 13px;
         top:18%;
-        width:50%;
+        /* width:50%; */
         right:17%;
     }
     .Service-text-2-1{
@@ -3470,7 +3470,7 @@ footer#contact-us {
     .Service-text-3{
         font-size: 13px;
         top:48%;
-        width:50%;
+        /* width:50%; */
         left:23%;
     }
     .Service-text-3-1{
@@ -3482,7 +3482,7 @@ footer#contact-us {
     .Service-text-4{
         font-size: 13px;
         top:48%;
-        width:50%;
+        /* width:50%; */
         right:23%;
     }
     .Service-text-4-1{
@@ -3494,7 +3494,7 @@ footer#contact-us {
     .Service-text-5{
         font-size: 13px;
         top:78%;
-        width:50%;
+        /* width:50%; */
         left:15%;
     }
     .Service-text-5-1{
@@ -3506,7 +3506,7 @@ footer#contact-us {
     .Service-text-6{
         font-size: 13px;
         top:78%;
-        width:50%;
+        /* width:50%; */
         right:23%;
     }
     .Service-text-6-1{
@@ -3526,7 +3526,7 @@ footer#contact-us {
 @media (max-width: 768px) {
     #customer {
         height: 200px;
-        padding: 10px ;
+        /* padding: 10px ; */
         grid-template-columns: repeat(2, 1fr); 
     }
 
@@ -3965,7 +3965,7 @@ footer#contact-us {
     }
     .textset-4 span{
         position: absolute;
-        width: 1000%;
+        width: 100%;
         bottom:112%;
         left:63%;
     }
